@@ -1,3 +1,7 @@
+### Developed By : Sri Varshan P
+### Register No. 212222240104
+###  Date:
+
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 Date:
 ### AIM:
